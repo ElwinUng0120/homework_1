@@ -1,5 +1,6 @@
 # homework_1
 Homework assignment #1 for UofT SCS Coding Bootcamp 09/2020
+Goal: To make the html code of Horiseon's website more readable and concise as well as rectify any errors found within the code.
 
 # index.html:
 - Replaced website's title
